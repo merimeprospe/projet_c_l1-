@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1619427702 source:d:\project_l1_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"structure.h"
+	"fonction.h"
+
+1619258358 d:\project_l1_3\structure.h
+	<string.h>
+
+1619167068 d:\project_l1_3\fonction.h
+
+1619447278 source:d:\project_l1_3\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"structure.h"
+
+1619510842 source:g:\project_l1_3\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"structure.h"
+
+1619258358 g:\project_l1_3\structure.h
+	<string.h>
+
+1619509586 source:g:\project_l1_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"structure.h"
+	"fonction.h"
+
+1619167068 g:\project_l1_3\fonction.h
+
+1619510842 source:e:\project_l1_3\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"structure.h"
+
+1619258358 e:\project_l1_3\structure.h
+	<string.h>
+
+1619509586 source:e:\project_l1_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"structure.h"
+	"fonction.h"
+
+1619167068 e:\project_l1_3\fonction.h
+
+1619510842 source:e:\l1\project_c - copie\project_l1_3\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"structure.h"
+
+1619258358 e:\l1\project_c - copie\project_l1_3\structure.h
+	<string.h>
+
+1619509586 source:e:\l1\project_c - copie\project_l1_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"structure.h"
+	"fonction.h"
+
+1619167068 e:\l1\project_c - copie\project_l1_3\fonction.h
+

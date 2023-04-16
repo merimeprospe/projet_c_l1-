@@ -1,0 +1,9 @@
+math1  1201  gdgf  4  4 1
+math2  1202  ljlkkh  4  4 2
+info1  1234  simo  3 3 1
+info2  1282  tedom  3 3 1
+info3  1212  tedom  4  4  1 
+java  1212  prosper  4  4  1 
+arduno  2312  simo  2  2  1 
+css  1324  merime  4  3  1 
+INFO  1021  SIMO  4  2  1 
